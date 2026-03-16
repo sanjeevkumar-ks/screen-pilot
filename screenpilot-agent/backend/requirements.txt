@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-pydantic
-google-generativeai
-python-multipart
-playwright
-python-dotenv
-pillow
