@@ -9,4 +9,5 @@ build/
 .agents/
 .agent/
 
-screenpilot-agent/backend/
+screenpilot-agent/backend/.env
+screenpilot-agent/backend/venv/
